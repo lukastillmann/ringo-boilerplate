@@ -1,0 +1,1 @@
+//exports.example = require("./example");

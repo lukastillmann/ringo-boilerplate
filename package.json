@@ -1,0 +1,21 @@
+{
+    "name": "Ringo-Boilerplate",
+    "version": "0.1",
+    "description": "Boilerplate for a ringojs web application",
+    "maintainers": [
+        {
+            "name": "Lukas Tillmann",
+            "email": "home@lukastillmann.eu"
+        }
+    ],
+    "contributors": [],
+    "dependencies": {
+        "stick": ">= 0.5",
+        "gestalt": "=> 0.1.1",
+        "ringo-sqlstore": ">= 0.7.3"
+    },
+    "engines": {
+        "ringojs": ">= 1.2.1"
+    },
+    "main": "./app/main.js"
+}
